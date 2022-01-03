@@ -1,0 +1,27 @@
+.quiz-form{
+padding: 30px ;
+border:1px solid #ccc;
+margin-top: 10px;
+width: 95%;
+margin: auto;
+}
+.sub-form{
+    width: 100%;
+    text-align: start;
+}
+.form-style{
+     width: 70%;
+    border-radius: 5px;
+    border:1px solid #ccc;
+}
+.questions{
+    border-radius: 5px;
+    background-color:rgb(248, 239, 239);
+}
+.show{
+    display: none;
+}
+.create-new{
+    text-decoration: none;
+    font-weight: bold;
+}
